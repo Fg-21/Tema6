@@ -1,0 +1,5 @@
+Pablo 19 1,65
+Fran 20 1,77
+Manuel 18 1,94
+Julian 18 1,72
+Diego 18 1,58

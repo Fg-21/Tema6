@@ -41,7 +41,7 @@ public class ej2 {
 			do {
 				res += rd.nextInt();
 				cont++;
-			}while (rd.hasNextInt()); 
+			}while (rd.hasNextInt());
 		} catch (FileNotFoundException e) {
 			System.out.println("No se encuentra el archivo");
 		}
